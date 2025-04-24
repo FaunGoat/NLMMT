@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "67f753e89299eaf14be3407e"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b453"
+      },
+      "name": "Áo Polo Nam Trơn ProCOOL Seam Sealing",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416498/%C3%81o_Polo_Nam_Tr%C6%A1n_ProCOOL_Seam_Sealing_trang_ktsqnq.jpg",
+      "price": "389000",
+      "size": "L",
+      "color": "Đen",
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b41e"
+      },
+      "name": "Áo Khoác Trucker Denim Nam Extensively Orgnls",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416501/%C3%81o_Kho%C3%A1c_Trucker_Denim_Nam_Extensively_Orgnls_1_t1a603.jpg",
+      "price": "619000",
+      "size": "M",
+      "color": "Xanh",
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 1008000,
+  "createdAt": {
+    "$date": "2025-04-10T05:15:20.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T05:15:40.687Z"
+  },
+  "__v": 1,
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f754089299eaf14be34169"
+  },
+  "guestId": "guest_1744262144479",
+  "products": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b47a"
+      },
+      "name": "Thắt Lưng Nam Shadow Stripe",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/Th%E1%BA%AFt_L%C6%B0ng_Nam_Shadow_Stripe_ubxius.webp",
+      "price": "399000",
+      "size": "L",
+      "color": "Đen",
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b46b"
+      },
+      "name": "Áo Thun Nam Typo",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416489/%C3%81o_Thun_Nam_Typo_do_ehjbtc.webp",
+      "price": "299000",
+      "size": "L",
+      "color": "Đen",
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 698000,
+  "createdAt": {
+    "$date": "2025-04-10T05:15:52.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T05:16:07.128Z"
+  },
+  "__v": 1
+}]

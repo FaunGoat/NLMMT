@@ -1,0 +1,1782 @@
+[{
+  "_id": {
+    "$oid": "67ecc157403373937dd55601"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b41e"
+      },
+      "name": "Áo Khoác Trucker Denim Nam Extensively Orgnls",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416501/%C3%81o_Kho%C3%A1c_Trucker_Denim_Nam_Extensively_Orgnls_1_t1a603.jpg",
+      "price": 619000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Xanh"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 619000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-02T04:47:19.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T04:47:43.982Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-02T04:47:43.763Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14886147",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-02T04:47:43.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ecc59fb2ef443af322448a"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "0980900",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:05:35.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:05:35.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc678b2ef443af322448d"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "đâsd",
+    "city": "đâsd",
+    "postalCode": "ádad",
+    "country": "ádasd"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:09:12.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:09:12.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc67bb2ef443af3224490"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "đâsd",
+    "city": "đâsd",
+    "postalCode": "ádad",
+    "country": "ádasd"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:09:15.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:09:15.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc69bb2ef443af3224493"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "đâsd",
+    "city": "đâsd",
+    "postalCode": "ádad",
+    "country": "ádasd"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:09:47.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:09:47.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc713b2ef443af3224497"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "đâsd",
+    "city": "đâsd",
+    "postalCode": "ádad",
+    "country": "ádasd"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:11:47.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:11:47.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc718b2ef443af322449b"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "đâsd",
+    "city": "đâsd",
+    "postalCode": "ádad",
+    "country": "ádasd"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:11:52.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:11:52.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eccbb2b2ef443af32244c2"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ấlkj",
+    "city": "álkfjaljf",
+    "postalCode": "alsfkjalskj",
+    "country": "ákjfalsfj"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-02T05:31:30.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:31:30.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eccbf1b2ef443af32244c5"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b43d"
+      },
+      "name": "Quần Jean Nam Ống Suông Wash",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416490/Qu%E1%BA%A7n_Jean_Nam_%E1%BB%90ng_Su%C3%B4ng_Wash_fktxha.webp",
+      "price": 549000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "qử",
+    "city": "kjhdk",
+    "postalCode": "hsdkfjh",
+    "country": "sdgfhka"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 1098000,
+  "isPaid": false,
+  "paymentStatus": "pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-02T05:32:33.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T05:35:55.941Z"
+  },
+  "__v": 0,
+  "paidAt": null,
+  "paymentDetails": {
+    "method": "COD"
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-02T05:35:55.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ecd55644333b05c644ec13"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b47c"
+      },
+      "name": "Thắt Lưng Nam Camouflage Moss",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416492/Th%E1%BA%AFt_L%C6%B0ng_Nam_Camouflage_Moss_pfzxd2.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Camo"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b480"
+      },
+      "name": "Vớ Nam Ankle Socks",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/V%E1%BB%9B_Nam_Ankle_Socks_den_aevmfs.webp",
+      "price": 29000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Xám"
+    }
+  ],
+  "shippingAddress": {
+    "address": "xuan khanh",
+    "city": "can tho",
+    "postalCode": "9000000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 457000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-02T06:12:38.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T06:13:02.250Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-02T06:13:01.936Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14886277",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-02T06:13:02.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ecf6d6edf8133669219131"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b474"
+      },
+      "name": "Áo Thun Nam Retro Vibes Club",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416516/%C3%81o_Thun_Nam_Retro_Vibes_Club_trang_jiqwvl.webp",
+      "price": 329000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Navy"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b426"
+      },
+      "name": "Quần Short Denim Nam Striped Utility",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416505/Qu%C3%A2%CC%80n_Short_Denim_Nam_Striped_Utility_1_eootoz.webp",
+      "price": 379000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Navy"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 708000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-02T08:35:34.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T08:36:46.817Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-02T08:36:46.396Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14886648",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-02T08:36:46.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ecf746edf8133669219191"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b41e"
+      },
+      "name": "Áo Khoác Trucker Denim Nam Extensively Orgnls",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416501/%C3%81o_Kho%C3%A1c_Trucker_Denim_Nam_Extensively_Orgnls_1_t1a603.jpg",
+      "price": 619000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Xanh"
+    }
+  ],
+  "shippingAddress": {
+    "address": "eqweq",
+    "city": "eqwe",
+    "postalCode": "weqweqw",
+    "country": "ewqwe"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 619000,
+  "isPaid": false,
+  "paymentStatus": "pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-02T08:37:26.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T08:37:31.402Z"
+  },
+  "__v": 0,
+  "paidAt": null,
+  "paymentDetails": {
+    "method": "COD"
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-02T08:37:31.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ef9e49c9e030fe9074e1da"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đỏ"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 90000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-04T08:54:33.034Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T08:55:00.520Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-04T08:54:59.823Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14890699",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-04T08:55:00.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67efb68818f1806eb4b7356c"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b434"
+      },
+      "name": "Quần Short Kaki Nam Five Pocket Classic",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Short_Kaki_Nam_Five_Pocket_Classic_den_fb0g90.jpg",
+      "price": 349000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Xám"
+    }
+  ],
+  "shippingAddress": {
+    "address": "xuan khanh",
+    "city": "can tho",
+    "postalCode": "910000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 698000,
+  "isPaid": false,
+  "paymentStatus": "pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-04T10:38:00.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T10:38:03.569Z"
+  },
+  "__v": 0,
+  "paidAt": null,
+  "paymentDetails": {
+    "method": "COD"
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-04T10:38:03.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eff9b654ffb5c5758cfe60"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b465"
+      },
+      "name": "Áo Thun Nam Raglan Marvel Captain Sam Wilson",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416513/%C3%81o_Thun_Nam_Raglan_Marvel_Captain_Sam_Wilson_ptwx6b.webp",
+      "price": 349000,
+      "quantity": 1,
+      "size": "M",
+      "color": "Trắng"
+    }
+  ],
+  "shippingAddress": {
+    "address": "weqwe",
+    "city": "qwe",
+    "postalCode": "qweqw",
+    "country": "eqwe"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 349000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-04T15:24:38.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T15:24:43.286Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-04T15:24:43.286Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f001c054ffb5c5758cffa0"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b45b"
+      },
+      "name": "Áo Sơ Mi Tay Dài Nam Cổ Đức",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416508/%C3%81o_S%C6%A1_Mi_Tay_D%C3%A0i_Nam_C%E1%BB%95_%C4%90%E1%BB%A9c_trang_d8ki7v.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Trắng"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b470"
+      },
+      "name": "Quần Jean Nam Meet Every Challenge With Courage",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Qu%E1%BA%A7n_Jean_Nam_Meet_Every_Challenge_With_Courage_ynpsew.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "qửqwr",
+    "city": "ưqửqwr",
+    "postalCode": "qửqwr",
+    "country": "qửqwrr"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 948000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-04T15:58:56.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T15:58:56.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0033654ffb5c5758cffa3"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b45b"
+      },
+      "name": "Áo Sơ Mi Tay Dài Nam Cổ Đức",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416508/%C3%81o_S%C6%A1_Mi_Tay_D%C3%A0i_Nam_C%E1%BB%95_%C4%90%E1%BB%A9c_trang_d8ki7v.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Trắng"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b470"
+      },
+      "name": "Quần Jean Nam Meet Every Challenge With Courage",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Qu%E1%BA%A7n_Jean_Nam_Meet_Every_Challenge_With_Courage_ynpsew.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "qkjwerhqkjwhe",
+    "city": "qựkheqkwjhe",
+    "postalCode": "jwqhekqjweh",
+    "country": "kjhqwekq"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 948000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-04T16:05:10.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:05:10.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f003b3b8233a4fdc08ff9b"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b45b"
+      },
+      "name": "Áo Sơ Mi Tay Dài Nam Cổ Đức",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416508/%C3%81o_S%C6%A1_Mi_Tay_D%C3%A0i_Nam_C%E1%BB%95_%C4%90%E1%BB%A9c_trang_d8ki7v.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Trắng"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b470"
+      },
+      "name": "Quần Jean Nam Meet Every Challenge With Courage",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Qu%E1%BA%A7n_Jean_Nam_Meet_Every_Challenge_With_Courage_ynpsew.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "qưe",
+    "city": "qưeq",
+    "postalCode": "qưe",
+    "country": "qưe"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 948000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-04T16:07:15.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:07:15.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f018152894d3e9b07879c4"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b46e"
+      },
+      "name": "Quần Smart Jeans Nam Oceanic Indigo",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Smart_Jeans_Nam_Oceanic_Indigo_khbil8.webp",
+      "price": 590000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Xanh"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b47c"
+      },
+      "name": "Thắt Lưng Nam Camouflage Moss",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416492/Th%E1%BA%AFt_L%C6%B0ng_Nam_Camouflage_Moss_pfzxd2.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Camo"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b45f"
+      },
+      "name": "Áo Polo Nam Pattern Vertical Stripes N 25",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416498/%C3%81o_Polo_Nam_Pattern_Vertical_Stripes_N_25_ouenue.jpg",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 1978000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-04T17:34:13.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T17:34:14.070Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-04T17:34:14.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f238c3b3ac3ca619fc881c"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b44d"
+      },
+      "name": "Áo Sơ Mi Nam Stripe Crochet",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416505/%C3%81o_S%C6%A1_Mi_Nam_Stripe_Crochet_junvuk.jpg",
+      "price": 349000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 349000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T08:18:11.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T08:18:39.916Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T08:18:39.484Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892354",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T08:18:39.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f24158b3ac3ca619fc888d"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b46e"
+      },
+      "name": "Quần Smart Jeans Nam Oceanic Indigo",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Smart_Jeans_Nam_Oceanic_Indigo_khbil8.webp",
+      "price": 590000,
+      "quantity": 2,
+      "size": "XL",
+      "color": "Xanh"
+    }
+  ],
+  "shippingAddress": {
+    "address": "nvl",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 1180000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T08:54:48.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T08:54:49.392Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-06T08:54:49.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f241b3b3ac3ca619fc8945"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b432"
+      },
+      "name": "Áo Khoác Denim Nam Striped Utility",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416505/%C3%81o_Kho%C3%A1c_Denim_Nam_Striped_Utility_jggq5u.webp",
+      "price": 579000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Navy"
+    }
+  ],
+  "shippingAddress": {
+    "address": "mau than",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 579000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T08:56:19.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T08:56:48.225Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T08:56:47.789Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892400",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T08:56:48.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f243c7b3ac3ca619fc89b7"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đen"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đỏ"
+    }
+  ],
+  "shippingAddress": {
+    "address": "mau than",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 180000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:05:11.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:05:12.647Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:05:12.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f24464b3ac3ca619fc8a2d"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b474"
+      },
+      "name": "Áo Thun Nam Retro Vibes Club",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416516/%C3%81o_Thun_Nam_Retro_Vibes_Club_trang_jiqwvl.webp",
+      "price": 329000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Navy"
+    }
+  ],
+  "shippingAddress": {
+    "address": "xuan khanh",
+    "city": "can tho",
+    "postalCode": "912153",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 329000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:07:48.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:08:13.450Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T09:08:13.017Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892409",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:08:13.450Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f24699b3ac3ca619fc8ae4"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b45b"
+      },
+      "name": "Áo Sơ Mi Tay Dài Nam Cổ Đức",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416508/%C3%81o_S%C6%A1_Mi_Tay_D%C3%A0i_Nam_C%E1%BB%95_%C4%90%E1%BB%A9c_trang_d8ki7v.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Trắng"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b470"
+      },
+      "name": "Quần Jean Nam Meet Every Challenge With Courage",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Qu%E1%BA%A7n_Jean_Nam_Meet_Every_Challenge_With_Courage_ynpsew.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Be"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b44a"
+      },
+      "name": "Áo Khoác Nam Lightweight Tech Có Nón Pocketable",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416492/%C3%81o_Kho%C3%A1c_Nam_Lightweight_Tech_C%C3%B3_N%C3%B3n_Pocketable_be_qafrbv.webp",
+      "price": 450000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "local",
+    "city": "noraml",
+    "postalCode": "128101",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 1398000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:17:13.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:17:52.977Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T09:17:52.535Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892418",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:17:52.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f249a8b3ac3ca619fc8b6b"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b47a"
+      },
+      "name": "Thắt Lưng Nam Shadow Stripe",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/Th%E1%BA%AFt_L%C6%B0ng_Nam_Shadow_Stripe_ubxius.webp",
+      "price": 399000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đen"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b47e"
+      },
+      "name": "Vớ Crew ICONDENIM Office Stride",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/V%E1%BB%9B_Crew_ICONDENIM_Office_Stride_hbsork.webp",
+      "price": 59000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "rnune",
+    "city": "poialas",
+    "postalCode": "9128412",
+    "country": "PIQWI"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 458000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:30:16.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:30:43.383Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T09:30:43.055Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892430",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:30:43.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f24adab3ac3ca619fc8c95"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b438"
+      },
+      "name": "Áo Sơ Mi Oxford Nam Stronger With Each Challenge",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416505/%C3%81o_S%C6%A1_Mi_Oxford_Nam_Stronger_With_Each_Challenge_ctfaul.webp",
+      "price": 379000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Đỏ"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b434"
+      },
+      "name": "Quần Short Kaki Nam Five Pocket Classic",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Short_Kaki_Nam_Five_Pocket_Classic_den_fb0g90.jpg",
+      "price": 349000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Xám"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 728000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:35:22.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:35:53.984Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T09:35:53.543Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892434",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:35:53.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f24e5bb3ac3ca619fc8cec"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b445"
+      },
+      "name": "Quần Jogger Kaki Chéo Nam",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/Qu%E1%BA%A7n_Jogger_Kaki_Ch%C3%A9o_Nam_xam_t4xcxj.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Xám"
+    }
+  ],
+  "shippingAddress": {
+    "address": "eqwe",
+    "city": "êqe",
+    "postalCode": "eqe",
+    "country": "eqweq"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 549000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T09:50:19.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T09:50:46.075Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T09:50:45.749Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892452",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T09:50:46.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f254d1b3ac3ca619fc8d62"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b461"
+      },
+      "name": "Áo Thun Nam Marvel Captain Sentinel Of Liberty",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416510/%C3%81o_Thun_Nam_Marvel_Captain_Sentinel_Of_Liberty_lqzsrp.webp",
+      "price": 349000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 349000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T10:17:53.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T10:18:19.529Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-06T10:18:19.179Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14892472",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-06T10:18:19.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2556db3ac3ca619fc8e1b"
+  },
+  "user": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b480"
+      },
+      "name": "Vớ Nam Ankle Socks",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/V%E1%BB%9B_Nam_Ankle_Socks_den_aevmfs.webp",
+      "price": 29000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Trắng"
+    }
+  ],
+  "shippingAddress": {
+    "address": "mau than",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 58000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-06T10:20:29.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T10:20:31.658Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-06T10:20:31.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3a4832769d112b7fa3222"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67f3a40f2769d112b7f9fd8c"
+      },
+      "name": "Áo Mickey Colab",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1744020444/pspcgca6b3zyqqkyqk6f.jpg",
+      "price": 320000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Be"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ko biet",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 320000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-07T10:10:11.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T10:11:02.193Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-07T10:11:01.849Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14893705",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-07T10:11:02.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3a8242769d112b7faa198"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b448"
+      },
+      "name": "Áo Khoác Denim Nam Có Nón Bo Thun",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416502/%C3%81o_Kho%C3%A1c_Denim_Nam_C%C3%B3_N%C3%B3n_Bo_Thun_qdg9s1.jpg",
+      "price": 579000,
+      "quantity": 1,
+      "size": "XL",
+      "color": "Xanh"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b46e"
+      },
+      "name": "Quần Smart Jeans Nam Oceanic Indigo",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Smart_Jeans_Nam_Oceanic_Indigo_khbil8.webp",
+      "price": 590000,
+      "quantity": 1,
+      "size": "2XL",
+      "color": "Xanh"
+    }
+  ],
+  "shippingAddress": {
+    "address": "Ninh Kieu",
+    "city": "Can Tho",
+    "postalCode": "900000",
+    "country": "VN"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 1169000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-07T10:25:40.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T10:25:43.979Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-07T10:25:43.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f54687977e7dc0a1698ac5"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b434"
+      },
+      "name": "Quần Short Kaki Nam Five Pocket Classic",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416495/Qu%E1%BA%A7n_Short_Kaki_Nam_Five_Pocket_Classic_den_fb0g90.jpg",
+      "price": 349000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Navy"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 349000,
+  "isPaid": true,
+  "paymentStatus": "paid",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-08T15:53:43.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T15:54:18.543Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-04-08T15:54:18.212Z"
+  },
+  "paymentDetails": {
+    "transactionId": "14896350",
+    "vnpayOrderId": null
+  },
+  "FinalizedAt": {
+    "$date": "2025-04-08T15:54:18.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f54a0d977e7dc0a16a7676"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "an khanh",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 180000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-08T16:08:45.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T16:08:45.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f54a2e977e7dc0a16a7679"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "an khanh",
+    "city": "can tho",
+    "postalCode": "90000",
+    "country": "VN"
+  },
+  "paymentMethod": "VNPay",
+  "totalPrice": 180000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": false,
+  "createdAt": {
+    "$date": "2025-04-08T16:09:18.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T16:09:18.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f54a9a977e7dc0a16a76b6"
+  },
+  "user": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b477"
+      },
+      "name": "Khăn Bandana Orgnls ID",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416491/Kha%CC%86n_Bandana_Orgnls_ID_do_gbzwgv.webp",
+      "price": 90000,
+      "quantity": 2,
+      "size": "L",
+      "color": "Đen"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ljk",
+    "city": "lkjl",
+    "postalCode": "kj",
+    "country": "lkjl"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 180000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-08T16:11:06.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T16:11:07.801Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-08T16:11:07.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f6625df09d4497c11b3a74"
+  },
+  "user": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "checkoutItems": [
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b445"
+      },
+      "name": "Quần Jogger Kaki Chéo Nam",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416494/Qu%E1%BA%A7n_Jogger_Kaki_Ch%C3%A9o_Nam_xam_t4xcxj.jpg",
+      "price": 549000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Đen"
+    },
+    {
+      "productId": {
+        "$oid": "67ecc00af68b0f08df77b41e"
+      },
+      "name": "Áo Khoác Trucker Denim Nam Extensively Orgnls",
+      "image": "https://res.cloudinary.com/dracdkeao/image/upload/v1743416501/%C3%81o_Kho%C3%A1c_Trucker_Denim_Nam_Extensively_Orgnls_1_t1a603.jpg",
+      "price": 619000,
+      "quantity": 1,
+      "size": "L",
+      "color": "Xanh"
+    }
+  ],
+  "shippingAddress": {
+    "address": "ninh kieu",
+    "city": "can tho",
+    "postalCode": "900000",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "COD",
+  "totalPrice": 1168000,
+  "isPaid": false,
+  "paymentStatus": "Pending",
+  "isFinalized": true,
+  "createdAt": {
+    "$date": "2025-04-09T12:04:45.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T12:04:46.226Z"
+  },
+  "__v": 0,
+  "FinalizedAt": {
+    "$date": "2025-04-09T12:04:46.226Z"
+  }
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67ecc00af68b0f08df77b418"
+  },
+  "name": "Admin User",
+  "email": "admin@123.com",
+  "password": "$2b$10$tQ8DTr4OHLQefUkph1FsDOgENfhF7/SNO/OkokcqVFD73gRO7p2sy",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-04-02T04:41:46.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T04:41:46.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecc0ff403373937dd554f8"
+  },
+  "name": "Minh Loi",
+  "email": "loi@123.com",
+  "password": "$2b$10$qpY4kEB3U9lM0c9W1KNJMOEyjdk5Ul7fmhe9hItMnhPuucP9JNgii",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2025-04-02T04:45:51.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T04:45:51.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ecd41f44333b05c644d34a"
+  },
+  "name": "Diem Kieu",
+  "email": "kieu@123.com",
+  "password": "$2b$10$3oSFM5Ztu9Vz2bo4sbaDbefLBkJKODbHmztB7mhhR/Qz6tvCDvNZK",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2025-04-02T06:07:27.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T06:07:27.916Z"
+  },
+  "__v": 0
+}]
